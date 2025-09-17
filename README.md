@@ -71,6 +71,8 @@ Este projeto consiste em um aplicativo nativo voltado para a matemática. Ele re
 
 📅 Dia 1: 9 fórmulas
 
+<br>
+
 # 🗂️ Gestão do Projeto
 
 ## Gestor Geral
@@ -108,14 +110,14 @@ Responsável por coordenar uma equipe, como o que cada um iria estudar ou fazer.
 # 👤 Membros do grupo 👤
 
 ## 🧑‍💼 Gestores
-*  **Vitor Berniz Lopes**
+-  **Vitor Berniz Lopes**
   *  Gestor geral do projeto
   *  Designer
   *  Python
   *  Engenheiro de software
   *  Idealizador do projeto
   
-*  **Davi**
+-  **Davi**
    * Vice gestor geral do projeto
    * Python
 
