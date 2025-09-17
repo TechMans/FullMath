@@ -111,15 +111,15 @@ Responsável por coordenar uma equipe, como o que cada um iria estudar ou fazer.
 
 ## 🧑‍💼 Gestores
 -  **Vitor Berniz Lopes**
-  *  Gestor geral do projeto
-  *  Designer
-  *  Python
-  *  Engenheiro de software
-  *  Idealizador do projeto
+    *  Gestor geral do projeto
+    *  Designer
+    *  Python
+    *  Engenheiro de software
+    *  Idealizador do projeto
   
 -  **Davi**
-   * Vice gestor geral do projeto
-   * Python
+    * Vice gestor geral do projeto
+    * Python
 
 
 ## 🐱 Ensinar os membros do grupo a utilizarem o Git e o Git hub ->
