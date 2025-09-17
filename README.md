@@ -103,6 +103,7 @@ Substitui o Gestor Geral quando necessário (cargo único).
 
 Responsável por coordenar uma equipe, como o que cada um iria estudar ou fazer. Cada equipe possui 1 sub gestor.
 
+<br>
 
 # 👤 Membros do grupo 👤
 
