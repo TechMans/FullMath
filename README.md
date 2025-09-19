@@ -34,59 +34,6 @@ Este projeto consiste em um aplicativo nativo voltado para a matemática. Ele re
 
 <br>
 
-
-# 🌟 Membros Super Destaque
-
-## 🥇 Howold Lima Valentim
-
-🎯 Meta: Pesquisar 3 fórmulas físicas por dia
-
-📅 Dia 1: 9 fórmulas
-
-📅 Dia 2: 9 fórmulas
-
-📅 Dia 3: 73 fórmulas
-
-🌟Terminou um trabalho de 1 mês em apenas 3 dias de trabalho.🌟
-
-<br>
-
-## 🥈 Rafael
-
-🎯 Meta: Pesquisar 3 fórmulas físicas por dia
-
-📅 Dia 1: 17 fórmulas
-
-<br>
-
-## 🥉 Clara
-
-🎯 Meta: Pesquisar 3 fórmulas matemáticas por dia
-
-📅 Dia 1: 11 fórmulas
-
-📅 Dia 2: 4 fórmulas
-
-<br>
-
-## 4 Nayara
-
-🎯 Meta: Pesquisar 3 fórmulas financeiras por dia
-
-📅 Dia 1: 7 fórmulas
-
-📅 Dia 2: 5 fórmulas
-
-<br>
-
-## 5. Alex
-
-🎯 Meta: Pesquisar 3 fórmulas financeiras por dia
-
-📅 Dia 1: 9 fórmulas
-
-<br>
-
 # 🗂️ Gestão do Projeto
 
 ## Gestor Geral
