@@ -45,6 +45,10 @@ Este projeto consiste em um aplicativo nativo voltado para a matemática. Ele re
 
 📅 Dia 2: 9 fórmulas
 
+📅 Dia 3: 73 fórmulas
+
+🌟Terminou um trabalho de 1 mês em apenas 3 dias de trabalho.🌟
+
 <br>
 
 ## 🥈 Rafael
@@ -55,7 +59,17 @@ Este projeto consiste em um aplicativo nativo voltado para a matemática. Ele re
 
 <br>
 
-## 🥉 Nayara
+## 🥉 Clara
+
+🎯 Meta: Pesquisar 3 fórmulas matemáticas por dia
+
+📅 Dia 1: 11 fórmulas
+
+📅 Dia 2: 4 fórmulas
+
+<br>
+
+## 4 Nayara
 
 🎯 Meta: Pesquisar 3 fórmulas financeiras por dia
 
@@ -65,7 +79,7 @@ Este projeto consiste em um aplicativo nativo voltado para a matemática. Ele re
 
 <br>
 
-## 4. Alex
+## 5. Alex
 
 🎯 Meta: Pesquisar 3 fórmulas financeiras por dia
 
